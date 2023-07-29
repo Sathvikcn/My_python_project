@@ -1,0 +1,733 @@
+stn_code,Date,Dated,location,so2,rspm,no2
+55,2015-01-05,Jan-15,Nizamuddin,45,203,44
+55,2015-01-08,Jan-15,Nizamuddin,51,214,45
+55,2015-01-13,Jan-15,Nizamuddin,62,182,47
+55,2015-01-16,Jan-15,Nizamuddin,66,204,43
+55,2015-01-21,Jan-15,Nizamuddin,65,192,39
+55,2015-01-27,Jan-15,Nizamuddin,54,159,46
+55,2015-02-02,Feb-15,Nizamuddin,53,267,41
+55,2015-02-05,Feb-15,Nizamuddin,57,235,50
+55,2015-02-10,Feb-15,Nizamuddin,39,241,48
+55,2015-02-13,Feb-15,Nizamuddin,45,280,45
+55,2015-02-18,Feb-15,Nizamuddin,55,268,42
+55,2015-02-23,Feb-15,Nizamuddin,64,210,40
+55,2015-02-26,Feb-15,Nizamuddin,43,210,39
+55,2015-03-04,Mar-15,Nizamuddin,32,199,39
+55,2015-03-10,Mar-15,Nizamuddin,29,199,38
+55,2015-03-13,Mar-15,Nizamuddin,23,187,50
+55,2015-03-18,Mar-15,Nizamuddin,46,219,47
+55,2015-03-23,Mar-15,Nizamuddin,54,178,47
+55,2015-03-26,Mar-15,Nizamuddin,67,174,52
+55,2015-04-01,Apr-15,Nizamuddin,69,206,50
+55,2015-04-09,Apr-15,Nizamuddin,55,243,44
+55,2015-04-17,Apr-15,Nizamuddin,64,228,43
+55,2015-04-22,Apr-15,Nizamuddin,54,229,45
+55,2015-04-27,Apr-15,Nizamuddin,49,219,38
+55,2015-05-01,May-15,Nizamuddin,64,209,39
+55,2015-05-07,May-15,Nizamuddin,65,121,46
+55,2015-05-12,May-15,Nizamuddin,59,156,44
+55,2015-05-15,May-15,Nizamuddin,57,132,46
+55,2015-05-20,May-15,Nizamuddin,55,123,47
+55,2015-05-25,May-15,Nizamuddin,56,302,47
+55,2015-05-28,May-15,Nizamuddin,54,329,44
+55,2015-06-03,Jun-15,Nizamuddin,48,264,46
+55,2015-06-08,Jun-15,Nizamuddin,46,173,46
+55,2015-06-11,Jun-15,Nizamuddin,36,149,46
+55,2015-06-16,Jun-15,Nizamuddin,32,150,43
+55,2015-06-19,Jun-15,Nizamuddin,25,185,47
+55,2015-06-24,Jun-15,Nizamuddin,25,155,40
+55,2015-06-29,Jun-15,Nizamuddin,31,183,43
+55,2015-07-03,Jul-15,Nizamuddin,33,150,43
+55,2015-07-08,Jul-15,Nizamuddin,33,276,47
+55,2015-07-13,Jul-15,Nizamuddin,36,134,45
+55,2015-07-16,Jul-15,Nizamuddin,37,155,40
+55,2015-07-21,Jul-15,Nizamuddin,40,148,45
+55,2015-07-24,Jul-15,Nizamuddin,45,176,44
+55,2015-07-29,Jul-15,Nizamuddin,48,261,42
+55,2015-08-04,Aug-15,Nizamuddin,49,164,37
+55,2015-08-07,Aug-15,Nizamuddin,52,256,43
+55,2015-08-12,Aug-15,Nizamuddin,55,200,44
+55,2015-08-17,Aug-15,Nizamuddin,58,151,45
+55,2015-08-20,Aug-15,Nizamuddin,67,198,46
+55,2015-08-25,Aug-15,Nizamuddin,68,253,41
+55,2015-08-28,Aug-15,Nizamuddin,75,197,39
+55,2015-09-03,Sep-15,Nizamuddin,80,283,44
+55,2015-09-08,Sep-15,Nizamuddin,45,236,44
+55,2015-09-11,Sep-15,Nizamuddin,15,224,41
+55,2015-09-16,Sep-15,Nizamuddin,65,232,41
+55,2015-09-21,Sep-15,Nizamuddin,94,214,40
+55,2015-09-24,Sep-15,Nizamuddin,46,241,40
+55,2015-10-01,Oct-15,Nizamuddin,45,241,37
+55,2015-10-07,Oct-15,Nizamuddin,44,229,45
+55,2015-10-12,Oct-15,Nizamuddin,51,395,43
+55,2015-10-15,Oct-15,Nizamuddin,55,266,39
+55,2015-10-20,Oct-15,Nizamuddin,46,248,42
+55,2015-10-26,Oct-15,Nizamuddin,65,276,45
+55,2015-10-29,Oct-15,Nizamuddin,41,235,45
+55,2015-11-04,Nov-15,Nizamuddin,56,275,46
+55,2015-11-10,Nov-15,Nizamuddin,84,343,44
+55,2015-11-13,Nov-15,Nizamuddin,64,256,51
+55,2015-11-18,Nov-15,Nizamuddin,49,202,43
+55,2015-11-23,Nov-15,Nizamuddin,45,284,46
+55,2015-11-27,Nov-15,Nizamuddin,65,302,44
+55,2015-12-03,Dec-15,Nizamuddin,72,343,44
+55,2015-12-08,Dec-15,Nizamuddin,77,359,39
+55,2015-12-11,Dec-15,Nizamuddin,70,428,38
+55,2015-12-16,Dec-15,Nizamuddin,68,149,42
+55,2015-12-21,Dec-15,Nizamuddin,64,296,43
+55,2015-12-29,Dec-15,Nizamuddin,62,253,51
+55,2015-12-31,Dec-15,Nizamuddin,57,270,71
+57,2015-01-01,Jan-15,Shahzada Bagh,55,397,67
+57,2015-01-06,Jan-15,Shahzada Bagh,53,250,55
+57,2015-01-09,Jan-15,Shahzada Bagh,51,344,65
+57,2015-01-14,Jan-15,Shahzada Bagh,48,258,61
+57,2015-01-19,Jan-15,Shahzada Bagh,55,351,58
+57,2015-01-28,Jan-15,Shahzada Bagh,38,289,62
+57,2015-02-03,Feb-15,Shahzada Bagh,45,254,61
+57,2015-02-06,Feb-15,Shahzada Bagh,49,233,52
+57,2015-02-11,Feb-15,Shahzada Bagh,58,302,61
+57,2015-02-16,Feb-15,Shahzada Bagh,55,320,63
+57,2015-02-19,Feb-15,Shahzada Bagh,57,306,60
+57,2015-02-24,Feb-15,Shahzada Bagh,60,362,62
+57,2015-03-05,Mar-15,Shahzada Bagh,66,223,49
+57,2015-03-11,Mar-15,Shahzada Bagh,72,175,59
+57,2015-03-16,Mar-15,Shahzada Bagh,75,158,53
+57,2015-03-19,Mar-15,Shahzada Bagh,60,167,62
+57,2015-03-24,Mar-15,Shahzada Bagh,66,210,58
+57,2015-03-27,Mar-15,Shahzada Bagh,54,197,62
+57,2015-04-07,Apr-15,Shahzada Bagh,50,167,59
+57,2015-04-10,Apr-15,Shahzada Bagh,47,151,55
+57,2015-04-15,Apr-15,Shahzada Bagh,40,207,57
+57,2015-04-20,Apr-15,Shahzada Bagh,46,340,54
+57,2015-04-23,Apr-15,Shahzada Bagh,45,300,63
+57,2015-04-28,Apr-15,Shahzada Bagh,51,227,59
+57,2015-05-05,May-15,Shahzada Bagh,62,232,56
+57,2015-05-08,May-15,Shahzada Bagh,66,239,51
+57,2015-05-13,May-15,Shahzada Bagh,65,157,56
+57,2015-05-18,May-15,Shahzada Bagh,54,270,48
+57,2015-05-21,May-15,Shahzada Bagh,53,204,45
+57,2015-05-26,May-15,Shahzada Bagh,57,300,44
+57,2015-06-01,Jun-15,Shahzada Bagh,39,258,50
+57,2015-06-04,Jun-15,Shahzada Bagh,45,220,43
+57,2015-06-09,Jun-15,Shahzada Bagh,55,324,52
+57,2015-06-12,Jun-15,Shahzada Bagh,64,330,45
+57,2015-06-17,Jun-15,Shahzada Bagh,43,303,55
+57,2015-06-22,Jun-15,Shahzada Bagh,32,316,44
+57,2015-06-25,Jun-15,Shahzada Bagh,29,214,42
+57,2015-07-01,Jul-15,Shahzada Bagh,23,246,49
+57,2015-07-06,Jul-15,Shahzada Bagh,46,106,46
+57,2015-07-09,Jul-15,Shahzada Bagh,54,197,51
+57,2015-07-14,Jul-15,Shahzada Bagh,67,223,53
+57,2015-07-17,Jul-15,Shahzada Bagh,69,204,41
+57,2015-07-22,Jul-15,Shahzada Bagh,55,289,45
+57,2015-07-27,Jul-15,Shahzada Bagh,64,219,45
+57,2015-07-30,Jul-15,Shahzada Bagh,54,218,44
+57,2015-08-05,Aug-15,Shahzada Bagh,49,104,37
+57,2015-09-01,Sep-15,Shahzada Bagh,64,217,57
+57,2015-09-04,Sep-15,Shahzada Bagh,65,211,61
+57,2015-09-09,Sep-15,Shahzada Bagh,59,225,50
+57,2015-09-14,Sep-15,Shahzada Bagh,57,231,50
+57,2015-09-17,Sep-15,Shahzada Bagh,55,184,44
+57,2015-09-22,Sep-15,Shahzada Bagh,56,125,41
+57,2015-10-05,Oct-15,Shahzada Bagh,54,249,58
+57,2015-10-08,Oct-15,Shahzada Bagh,48,250,58
+57,2015-10-13,Oct-15,Shahzada Bagh,46,247,50
+57,2015-10-16,Oct-15,Shahzada Bagh,36,327,60
+57,2015-10-21,Oct-15,Shahzada Bagh,32,289,59
+57,2015-10-27,Oct-15,Shahzada Bagh,25,173,53
+57,2015-11-02,Nov-15,Shahzada Bagh,25,371,53
+57,2015-11-04,Nov-15,Shahzada Bagh,31,445,63
+57,2015-11-16,Nov-15,Shahzada Bagh,33,371,64
+57,2015-11-19,Nov-15,Shahzada Bagh,33,413,69
+57,2015-11-24,Nov-15,Shahzada Bagh,36,389,71
+57,2015-12-01,Dec-15,Shahzada Bagh,37,254,74
+57,2015-12-04,Dec-15,Shahzada Bagh,40,298,72
+57,2015-12-09,Dec-15,Shahzada Bagh,45,257,82
+57,2015-12-14,Dec-15,Shahzada Bagh,48,242,85
+57,2015-12-17,Dec-15,Shahzada Bagh,49,450,69
+57,2015-12-29,Dec-15,Shahzada Bagh,52,309,52
+58,2015-01-07,Jan-15,Shahadra,55,289,61
+58,2015-01-12,Jan-15,Shahadra,58,425,61
+58,2015-01-15,Jan-15,Shahadra,67,266,59
+58,2015-01-20,Jan-15,Shahadra,68,272,65
+58,2015-01-23,Jan-15,Shahadra,75,165,59
+58,2015-01-29,Jan-15,Shahadra,80,222,59
+58,2015-02-04,Feb-15,Shahadra,45,126,59
+58,2015-02-09,Feb-15,Shahadra,15,276,54
+58,2015-02-12,Feb-15,Shahadra,65,214,52
+58,2015-02-17,Feb-15,Shahadra,94,343,56
+58,2015-02-20,Feb-15,Shahadra,46,287,61
+58,2015-02-25,Feb-15,Shahadra,45,263,54
+58,2015-03-03,Mar-15,Shahadra,44,113,59
+58,2015-03-09,Mar-15,Shahadra,51,234,57
+58,2015-03-12,Mar-15,Shahadra,55,294,58
+58,2015-03-17,Mar-15,Shahadra,46,238,60
+58,2015-03-20,Mar-15,Shahadra,65,155,50
+58,2015-03-25,Mar-15,Shahadra,41,232,60
+58,2015-03-30,Mar-15,Shahadra,56,145,63
+58,2015-04-08,Apr-15,Shahadra,84,166,59
+58,2015-04-13,Apr-15,Shahadra,64,224,52
+58,2015-04-16,Apr-15,Shahadra,49,248,52
+58,2015-04-21,Apr-15,Shahadra,45,334,57
+58,2015-04-24,Apr-15,Shahadra,65,355,53
+58,2015-04-29,Apr-15,Shahadra,72,352,51
+58,2015-05-06,May-15,Shahadra,77,261,53
+58,2015-05-11,May-15,Shahadra,70,265,57
+58,2015-05-14,May-15,Shahadra,68,240,53
+58,2015-05-19,May-15,Shahadra,64,294,50
+58,2015-05-22,May-15,Shahadra,62,192,46
+58,2015-05-27,May-15,Shahadra,57,314,47
+58,2015-06-02,Jun-15,Shahadra,55,543,49
+58,2015-06-05,Jun-15,Shahadra,53,250,47
+58,2015-06-10,Jun-15,Shahadra,51,295,53
+58,2015-06-15,Jun-15,Shahadra,48,261,50
+58,2015-06-18,Jun-15,Shahadra,55,254,48
+58,2015-06-23,Jun-15,Shahadra,38,166,48
+58,2015-06-26,Jun-15,Shahadra,45,266,50
+58,2015-07-02,Jul-15,Shahadra,49,133,54
+58,2015-07-07,Jul-15,Shahadra,58,138,43
+58,2015-07-15,Jul-15,Shahadra,55,226,47
+58,2015-07-20,Jul-15,Shahadra,57,126,44
+58,2015-07-23,Jul-15,Shahadra,60,148,46
+58,2015-07-28,Jul-15,Shahadra,66,221,40
+58,2015-08-03,Aug-15,Shahadra,72,139,39
+58,2015-08-06,Aug-15,Shahadra,75,267,40
+58,2015-08-11,Aug-15,Shahadra,60,167,49
+58,2015-08-14,Aug-15,Shahadra,66,151,43
+58,2015-08-19,Aug-15,Shahadra,54,179,44
+58,2015-08-24,Aug-15,Shahadra,50,66,44
+58,2015-08-27,Aug-15,Shahadra,47,194,40
+58,2015-09-02,Sep-15,Shahadra,40,179,51
+58,2015-09-07,Sep-15,Shahadra,46,215,54
+58,2015-09-10,Sep-15,Shahadra,45,215,47
+58,2015-09-15,Sep-15,Shahadra,51,215,44
+58,2015-09-18,Sep-15,Shahadra,62,265,50
+58,2015-09-23,Sep-15,Shahadra,66,109,45
+58,2015-09-29,Sep-15,Shahadra,65,229,44
+58,2015-10-06,Oct-15,Shahadra,54,269,54
+58,2015-10-09,Oct-15,Shahadra,53,249,56
+58,2015-10-14,Oct-15,Shahadra,57,229,66
+58,2015-10-19,Oct-15,Shahadra,39,276,54
+58,2015-10-23,Oct-15,Shahadra,45,334,52
+58,2015-10-28,Oct-15,Shahadra,55,269,62
+58,2015-11-03,Nov-15,Shahadra,64,314,64
+58,2015-11-06,Nov-15,Shahadra,43,405,60
+58,2015-11-12,Nov-15,Shahadra,32,281,59
+58,2015-11-17,Nov-15,Shahadra,29,170,62
+58,2015-11-20,Nov-15,Shahadra,23,234,63
+58,2015-11-26,Nov-15,Shahadra,46,470,67
+58,2015-12-02,Dec-15,Shahadra,54,366,76
+58,2015-12-07,Dec-15,Shahadra,67,381,82
+58,2015-12-10,Dec-15,Shahadra,69,355,73
+58,2015-12-15,Dec-15,Shahadra,55,292,87
+58,2015-12-18,Dec-15,Shahadra,64,229,66
+58,2015-12-31,Dec-15,Shahadra,54,335,49
+59,2015-01-07,Jan-15,Janakpuri,49,143,47
+59,2015-01-12,Jan-15,Janakpuri,64,140,52
+59,2015-01-15,Jan-15,Janakpuri,65,187,45
+59,2015-01-20,Jan-15,Janakpuri,59,113,53
+59,2015-01-23,Jan-15,Janakpuri,57,120,50
+59,2015-01-29,Jan-15,Janakpuri,55,160,46
+59,2015-02-04,Feb-15,Janakpuri,56,150,44
+59,2015-02-09,Feb-15,Janakpuri,54,152,40
+59,2015-02-12,Feb-15,Janakpuri,48,168,35
+59,2015-02-17,Feb-15,Janakpuri,46,170,47
+59,2015-02-20,Feb-15,Janakpuri,36,145,44
+59,2015-02-25,Feb-15,Janakpuri,32,167,45
+59,2015-03-03,Mar-15,Janakpuri,25,142,47
+59,2015-03-09,Mar-15,Janakpuri,25,80,44
+59,2015-03-12,Mar-15,Janakpuri,31,215,48
+59,2015-03-17,Mar-15,Janakpuri,33,214,44
+59,2015-03-20,Mar-15,Janakpuri,33,190,47
+59,2015-03-25,Mar-15,Janakpuri,36,112,44
+59,2015-03-30,Mar-15,Janakpuri,37,145,46
+59,2015-04-08,Apr-15,Janakpuri,40,175,44
+59,2015-04-13,Apr-15,Janakpuri,45,169,48
+59,2015-04-16,Apr-15,Janakpuri,48,190,48
+59,2015-04-21,Apr-15,Janakpuri,49,207,47
+59,2015-04-24,Apr-15,Janakpuri,52,180,48
+59,2015-04-29,Apr-15,Janakpuri,55,212,49
+59,2015-05-06,May-15,Janakpuri,58,121,47
+59,2015-05-11,May-15,Janakpuri,67,59,48
+59,2015-05-14,May-15,Janakpuri,68,141,47
+59,2015-05-19,May-15,Janakpuri,75,102,52
+59,2015-05-22,May-15,Janakpuri,80,129,49
+59,2015-05-27,May-15,Janakpuri,45,147,49
+59,2015-06-02,Jun-15,Janakpuri,15,74,52
+59,2015-06-05,Jun-15,Janakpuri,65,137,60
+59,2015-06-10,Jun-15,Janakpuri,94,118,51
+59,2015-06-15,Jun-15,Janakpuri,46,74,58
+59,2015-06-18,Jun-15,Janakpuri,45,206,55
+59,2015-06-23,Jun-15,Janakpuri,44,191,51
+59,2015-06-26,Jun-15,Janakpuri,51,215,55
+59,2015-07-02,Jul-15,Janakpuri,55,206,52
+59,2015-07-07,Jul-15,Janakpuri,46,166,52
+59,2015-07-15,Jul-15,Janakpuri,65,181,52
+59,2015-07-20,Jul-15,Janakpuri,41,333,53
+59,2015-07-23,Jul-15,Janakpuri,56,195,52
+59,2015-07-28,Jul-15,Janakpuri,84,232,51
+59,2015-08-03,Aug-15,Janakpuri,64,212,49
+59,2015-08-06,Aug-15,Janakpuri,49,174,46
+59,2015-08-11,Aug-15,Janakpuri,45,165,54
+59,2015-08-14,Aug-15,Janakpuri,65,163,53
+59,2015-08-19,Aug-15,Janakpuri,72,125,51
+59,2015-08-24,Aug-15,Janakpuri,77,161,54
+59,2015-08-27,Aug-15,Janakpuri,70,239,50
+59,2015-09-02,Sep-15,Janakpuri,68,195,53
+59,2015-09-07,Sep-15,Janakpuri,64,197,51
+59,2015-09-10,Sep-15,Janakpuri,62,261,51
+59,2015-09-15,Sep-15,Janakpuri,57,152,48
+59,2015-09-18,Sep-15,Janakpuri,55,100,51
+59,2015-09-23,Sep-15,Janakpuri,53,244,52
+59,2015-09-29,Sep-15,Janakpuri,51,195,50
+59,2015-10-06,Oct-15,Janakpuri,48,226,52
+59,2015-10-09,Oct-15,Janakpuri,55,245,54
+59,2015-10-14,Oct-15,Janakpuri,38,246,56
+59,2015-10-19,Oct-15,Janakpuri,45,192,56
+59,2015-10-23,Oct-15,Janakpuri,49,255,47
+59,2015-10-28,Oct-15,Janakpuri,58,313,52
+59,2015-11-03,Nov-15,Janakpuri,55,284,50
+59,2015-11-05,Nov-15,Janakpuri,57,119,45
+59,2015-11-09,Nov-15,Janakpuri,60,403,49
+59,2015-11-12,Nov-15,Janakpuri,66,163,53
+59,2015-11-17,Nov-15,Janakpuri,72,176,51
+59,2015-11-20,Nov-15,Janakpuri,75,340,57
+59,2015-11-26,Nov-15,Janakpuri,60,346,58
+59,2015-12-02,Dec-15,Janakpuri,66,423,53
+59,2015-12-07,Dec-15,Janakpuri,54,443,50
+59,2015-12-10,Dec-15,Janakpuri,50,346,59
+59,2015-12-15,Dec-15,Janakpuri,47,308,67
+59,2015-12-18,Dec-15,Janakpuri,40,260,58
+59,2015-12-23,Dec-15,Janakpuri,46,140,56
+59,2015-12-30,Dec-15,Janakpuri,45,283,63
+60,2015-01-01,Jan-15,Siri Fort,51,173,53
+60,2015-01-06,Jan-15,Siri Fort,62,192,51
+60,2015-01-09,Jan-15,Siri Fort,66,197,57
+60,2015-01-14,Jan-15,Siri Fort,65,101,47
+60,2015-01-19,Jan-15,Siri Fort,54,237,48
+60,2015-01-28,Jan-15,Siri Fort,53,130,47
+60,2015-02-03,Feb-15,Siri Fort,57,102,29
+60,2015-02-06,Feb-15,Siri Fort,39,174,41
+60,2015-02-11,Feb-15,Siri Fort,45,146,40
+60,2015-02-16,Feb-15,Siri Fort,55,144,43
+60,2015-02-19,Feb-15,Siri Fort,64,140,43
+60,2015-02-24,Feb-15,Siri Fort,43,181,43
+60,2015-03-05,Mar-15,Siri Fort,32,88,45
+60,2015-03-11,Mar-15,Siri Fort,29,161,41
+60,2015-03-16,Mar-15,Siri Fort,23,171,45
+60,2015-03-19,Mar-15,Siri Fort,46,165,49
+60,2015-03-24,Mar-15,Siri Fort,54,149,42
+60,2015-03-27,Mar-15,Siri Fort,67,175,43
+60,2015-04-07,Apr-15,Siri Fort,69,173,53
+60,2015-04-10,Apr-15,Siri Fort,55,140,42
+60,2015-04-15,Apr-15,Siri Fort,64,171,49
+60,2015-04-20,Apr-15,Siri Fort,54,242,56
+60,2015-04-23,Apr-15,Siri Fort,49,195,50
+60,2015-04-28,Apr-15,Siri Fort,64,188,45
+60,2015-05-05,May-15,Siri Fort,65,137,46
+60,2015-05-08,May-15,Siri Fort,59,120,48
+60,2015-05-13,May-15,Siri Fort,57,50,44
+60,2015-05-18,May-15,Siri Fort,55,89,50
+60,2015-05-21,May-15,Siri Fort,56,61,49
+60,2015-05-26,May-15,Siri Fort,54,110,49
+60,2015-06-01,Jun-15,Siri Fort,48,151,45
+60,2015-06-04,Jun-15,Siri Fort,46,195,56
+60,2015-06-09,Jun-15,Siri Fort,36,167,54
+60,2015-06-12,Jun-15,Siri Fort,32,143,50
+60,2015-06-17,Jun-15,Siri Fort,25,121,51
+60,2015-06-22,Jun-15,Siri Fort,25,73,51
+60,2015-06-25,Jun-15,Siri Fort,31,111,44
+60,2015-07-09,Jul-15,Siri Fort,33,177,50
+60,2015-07-14,Jul-15,Siri Fort,33,171,53
+60,2015-07-17,Jul-15,Siri Fort,36,191,46
+60,2015-07-22,Jul-15,Siri Fort,37,158,52
+60,2015-07-27,Jul-15,Siri Fort,40,292,55
+60,2015-07-30,Jul-15,Siri Fort,45,179,53
+60,2015-08-05,Aug-15,Siri Fort,48,124,50
+60,2015-08-10,Aug-15,Siri Fort,49,186,50
+60,2015-08-13,Aug-15,Siri Fort,52,197,53
+60,2015-08-18,Aug-15,Siri Fort,55,189,48
+60,2015-08-21,Aug-15,Siri Fort,58,208,48
+60,2015-08-26,Aug-15,Siri Fort,67,150,49
+60,2015-09-01,Sep-15,Siri Fort,68,181,50
+60,2015-09-04,Sep-15,Siri Fort,75,146,50
+60,2015-09-14,Sep-15,Siri Fort,80,152,49
+60,2015-09-17,Sep-15,Siri Fort,45,92,48
+60,2015-09-22,Sep-15,Siri Fort,15,244,51
+60,2015-09-28,Sep-15,Siri Fort,65,123,47
+60,2015-10-05,Oct-15,Siri Fort,94,258,51
+60,2015-10-08,Oct-15,Siri Fort,46,177,56
+60,2015-10-13,Oct-15,Siri Fort,45,184,54
+60,2015-10-16,Oct-15,Siri Fort,44,281,44
+60,2015-10-21,Oct-15,Siri Fort,51,252,51
+60,2015-10-27,Oct-15,Siri Fort,55,385,59
+60,2015-11-02,Nov-15,Siri Fort,46,190,53
+60,2015-11-06,Nov-15,Siri Fort,65,231,52
+60,2015-11-16,Nov-15,Siri Fort,41,211,52
+60,2015-11-19,Nov-15,Siri Fort,56,332,56
+60,2015-11-24,Nov-15,Siri Fort,84,343,51
+60,2015-12-01,Dec-15,Siri Fort,64,243,55
+60,2015-12-04,Dec-15,Siri Fort,49,305,49
+60,2015-12-09,Dec-15,Siri Fort,45,349,56
+60,2015-12-17,Dec-15,Siri Fort,65,288,57
+60,2015-12-22,Dec-15,Siri Fort,72,326,58
+60,2015-12-30,Dec-15,Siri Fort,77,331,75
+144,2015-01-06,Jan-15,Sarojini Nagar,70,242,73
+144,2015-01-07,Jan-15,Sarojini Nagar,68,184,84
+144,2015-01-08,Jan-15,Sarojini Nagar,64,211,86
+144,2015-01-14,Jan-15,Sarojini Nagar,62,162,117
+144,2015-01-15,Jan-15,Sarojini Nagar,57,179,107
+144,2015-01-16,Jan-15,Sarojini Nagar,55,173,109
+144,2015-02-04,Feb-15,Sarojini Nagar,53,143,84
+144,2015-02-05,Feb-15,Sarojini Nagar,51,208,91
+144,2015-02-17,Feb-15,Sarojini Nagar,48,251,132
+144,2015-02-18,Feb-15,Sarojini Nagar,55,221,133
+144,2015-02-19,Feb-15,Sarojini Nagar,38,184,79
+144,2015-02-24,Feb-15,Sarojini Nagar,45,186,82
+144,2015-02-25,Feb-15,Sarojini Nagar,49,160,66
+144,2015-02-26,Feb-15,Sarojini Nagar,58,136,84
+144,2015-03-10,Mar-15,Sarojini Nagar,55,120,120
+144,2015-03-11,Mar-15,Sarojini Nagar,57,166,125
+144,2015-03-17,Mar-15,Sarojini Nagar,60,89,33
+144,2015-03-18,Mar-15,Sarojini Nagar,66,61,64
+144,2015-03-19,Mar-15,Sarojini Nagar,72,94,116
+144,2015-03-24,Mar-15,Sarojini Nagar,75,143,128
+144,2015-03-25,Mar-15,Sarojini Nagar,60,211,152
+144,2015-03-26,Mar-15,Sarojini Nagar,66,265,95
+144,2015-04-01,Apr-15,Sarojini Nagar,54,117,87
+144,2015-04-02,Apr-15,Sarojini Nagar,50,62,68
+144,2015-04-14,Apr-15,Sarojini Nagar,47,98,67
+144,2015-04-15,Apr-15,Sarojini Nagar,40,142,76
+144,2015-04-16,Apr-15,Sarojini Nagar,46,84,81
+144,2015-04-27,Apr-15,Sarojini Nagar,45,241,53
+144,2015-04-28,Apr-15,Sarojini Nagar,51,97,65
+144,2015-04-29,Apr-15,Sarojini Nagar,62,148,75
+144,2015-05-06,May-15,Sarojini Nagar,66,239,110
+144,2015-05-07,May-15,Sarojini Nagar,65,163,95
+144,2015-05-08,May-15,Sarojini Nagar,54,213,115
+144,2015-05-12,May-15,Sarojini Nagar,53,140,87
+144,2015-05-13,May-15,Sarojini Nagar,57,57,72
+144,2015-05-14,May-15,Sarojini Nagar,39,136,133
+144,2015-05-18,May-15,Sarojini Nagar,45,173,133
+144,2015-05-19,May-15,Sarojini Nagar,55,175,108
+144,2015-06-09,Jun-15,Sarojini Nagar,64,200,43
+144,2015-06-10,Jun-15,Sarojini Nagar,43,171,31
+144,2015-06-11,Jun-15,Sarojini Nagar,32,88,42
+144,2015-06-16,Jun-15,Sarojini Nagar,29,96,76
+144,2015-06-17,Jun-15,Sarojini Nagar,23,112,111
+144,2015-06-18,Jun-15,Sarojini Nagar,46,127,85
+144,2015-06-25,Jun-15,Sarojini Nagar,54,62,48
+144,2015-06-26,Jun-15,Sarojini Nagar,67,61,54
+144,2015-07-14,Jul-15,Sarojini Nagar,69,41,49
+144,2015-07-15,Jul-15,Sarojini Nagar,55,77,31
+144,2015-07-16,Jul-15,Sarojini Nagar,64,62,38
+144,2015-07-21,Jul-15,Sarojini Nagar,54,39,25
+144,2015-07-22,Jul-15,Sarojini Nagar,49,33,28
+144,2015-07-23,Jul-15,Sarojini Nagar,64,32,33
+144,2015-07-28,Jul-15,Sarojini Nagar,65,22,25
+144,2015-07-29,Jul-15,Sarojini Nagar,59,18,18
+144,2015-08-12,Aug-15,Sarojini Nagar,57,59,52
+144,2015-08-13,Aug-15,Sarojini Nagar,55,49,66
+144,2015-08-21,Aug-15,Sarojini Nagar,56,45,75
+144,2015-08-22,Aug-15,Sarojini Nagar,54,79,73
+144,2015-08-23,Aug-15,Sarojini Nagar,48,56,67
+144,2015-08-25,Aug-15,Sarojini Nagar,46,48,70
+144,2015-08-26,Aug-15,Sarojini Nagar,36,44,63
+144,2015-08-27,Aug-15,Sarojini Nagar,32,57,81
+144,2015-09-08,Sep-15,Sarojini Nagar,25,67,49
+144,2015-09-09,Sep-15,Sarojini Nagar,25,56,63
+144,2015-09-10,Sep-15,Sarojini Nagar,31,48,57
+144,2015-09-15,Sep-15,Sarojini Nagar,33,77,60
+144,2015-09-16,Sep-15,Sarojini Nagar,33,109,82
+144,2015-09-17,Sep-15,Sarojini Nagar,36,76,59
+144,2015-09-22,Sep-15,Sarojini Nagar,37,37,49
+144,2015-09-23,Sep-15,Sarojini Nagar,40,37,60
+144,2015-10-13,Oct-15,Sarojini Nagar,45,88,93
+144,2015-10-14,Oct-15,Sarojini Nagar,48,92,124
+144,2015-10-19,Oct-15,Sarojini Nagar,49,164,122
+144,2015-10-20,Oct-15,Sarojini Nagar,52,193,91
+144,2015-10-21,Oct-15,Sarojini Nagar,55,133,76
+144,2015-10-27,Oct-15,Sarojini Nagar,58,124,118
+144,2015-10-28,Oct-15,Sarojini Nagar,67,80,108
+144,2015-10-29,Oct-15,Sarojini Nagar,68,107,115
+144,2015-11-07,Nov-15,Sarojini Nagar,75,305,126
+144,2015-11-08,Nov-15,Sarojini Nagar,80,235,114
+144,2015-11-18,Nov-15,Sarojini Nagar,45,224,134
+144,2015-11-19,Nov-15,Sarojini Nagar,15,354,141
+144,2015-11-20,Nov-15,Sarojini Nagar,65,315,145
+144,2015-11-27,Nov-15,Sarojini Nagar,94,282,97
+144,2015-11-28,Nov-15,Sarojini Nagar,46,353,97
+144,2015-11-29,Nov-15,Sarojini Nagar,45,352,120
+144,2015-12-02,Dec-15,Sarojini Nagar,44,271,140
+144,2015-12-03,Dec-15,Sarojini Nagar,51,306,112
+144,2015-12-09,Dec-15,Sarojini Nagar,55,273,123
+144,2015-12-10,Dec-15,Sarojini Nagar,46,280,122
+144,2015-12-16,Dec-15,Sarojini Nagar,65,284,161
+144,2015-12-17,Dec-15,Sarojini Nagar,41,386,208
+144,2015-12-29,Dec-15,Sarojini Nagar,56,253,152
+144,2015-12-30,Dec-15,Sarojini Nagar,84,311,145
+146,2015-01-06,Jan-15,Chandni Chowk,64,236,90
+146,2015-01-07,Jan-15,Chandni Chowk,49,269,89
+146,2015-01-27,Jan-15,Chandni Chowk,45,271,78
+146,2015-01-28,Jan-15,Chandni Chowk,65,280,72
+146,2015-01-29,Jan-15,Chandni Chowk,72,279,101
+146,2015-02-04,Feb-15,Chandni Chowk,77,163,102
+146,2015-02-05,Feb-15,Chandni Chowk,70,301,130
+146,2015-02-10,Feb-15,Chandni Chowk,68,266,179
+146,2015-02-11,Feb-15,Chandni Chowk,64,263,147
+146,2015-02-12,Feb-15,Chandni Chowk,62,258,132
+146,2015-02-17,Feb-15,Chandni Chowk,57,297,126
+146,2015-02-18,Feb-15,Chandni Chowk,55,274,105
+146,2015-02-19,Feb-15,Chandni Chowk,53,207,61
+146,2015-03-03,Mar-15,Chandni Chowk,51,92,95
+146,2015-03-04,Mar-15,Chandni Chowk,48,128,137
+146,2015-03-10,Mar-15,Chandni Chowk,55,132,103
+146,2015-03-11,Mar-15,Chandni Chowk,38,182,101
+146,2015-03-12,Mar-15,Chandni Chowk,45,165,139
+146,2015-03-24,Mar-15,Chandni Chowk,49,185,115
+146,2015-03-25,Mar-15,Chandni Chowk,58,226,136
+146,2015-03-26,Mar-15,Chandni Chowk,55,130,85
+146,2015-04-07,Apr-15,Chandni Chowk,57,162,108
+146,2015-04-08,Apr-15,Chandni Chowk,60,214,98
+146,2015-04-09,Apr-15,Chandni Chowk,66,292,104
+146,2015-04-20,Apr-15,Chandni Chowk,72,499,145
+146,2015-04-21,Apr-15,Chandni Chowk,75,382,148
+146,2015-04-22,Apr-15,Chandni Chowk,60,292,138
+146,2015-04-23,Apr-15,Chandni Chowk,66,369,137
+146,2015-04-24,Apr-15,Chandni Chowk,54,409,125
+146,2015-05-06,May-15,Chandni Chowk,50,342,123
+146,2015-05-07,May-15,Chandni Chowk,47,250,77
+146,2015-05-08,May-15,Chandni Chowk,40,270,104
+146,2015-05-19,May-15,Chandni Chowk,46,211,93
+146,2015-05-20,May-15,Chandni Chowk,45,173,117
+146,2015-05-21,May-15,Chandni Chowk,51,174,114
+146,2015-05-26,May-15,Chandni Chowk,62,219,93
+146,2015-05-27,May-15,Chandni Chowk,66,393,108
+146,2015-06-02,Jun-15,Chandni Chowk,65,142,116
+146,2015-06-03,Jun-15,Chandni Chowk,54,93,92
+146,2015-06-04,Jun-15,Chandni Chowk,53,176,114
+146,2015-06-09,Jun-15,Chandni Chowk,57,224,35
+146,2015-06-10,Jun-15,Chandni Chowk,39,184,50
+146,2015-06-11,Jun-15,Chandni Chowk,45,157,66
+146,2015-06-23,Jun-15,Chandni Chowk,55,138,83
+146,2015-06-24,Jun-15,Chandni Chowk,64,53,62
+146,2015-07-01,Jul-15,Chandni Chowk,43,72,29
+146,2015-07-02,Jul-15,Chandni Chowk,32,89,33
+146,2015-07-07,Jul-15,Chandni Chowk,29,63,97
+146,2015-07-08,Jul-15,Chandni Chowk,23,78,102
+146,2015-07-09,Jul-15,Chandni Chowk,46,62,80
+146,2015-07-14,Jul-15,Chandni Chowk,54,77,30
+146,2015-07-15,Jul-15,Chandni Chowk,67,111,48
+146,2015-07-16,Jul-15,Chandni Chowk,69,88,43
+146,2015-08-04,Aug-15,Chandni Chowk,55,39,50
+146,2015-08-05,Aug-15,Chandni Chowk,64,54,71
+146,2015-08-06,Aug-15,Chandni Chowk,54,53,47
+146,2015-08-18,Aug-15,Chandni Chowk,49,38,54
+146,2015-08-19,Aug-15,Chandni Chowk,64,41,38
+146,2015-08-20,Aug-15,Chandni Chowk,65,57,52
+146,2015-08-25,Aug-15,Chandni Chowk,59,89,77
+146,2015-08-26,Aug-15,Chandni Chowk,57,65,75
+146,2015-09-01,Sep-15,Chandni Chowk,55,110,47
+146,2015-09-02,Sep-15,Chandni Chowk,56,134,40
+146,2015-09-03,Sep-15,Chandni Chowk,54,149,80
+146,2015-09-08,Sep-15,Chandni Chowk,48,81,107
+146,2015-09-09,Sep-15,Chandni Chowk,46,109,88
+146,2015-09-10,Sep-15,Chandni Chowk,36,97,113
+146,2015-09-22,Sep-15,Chandni Chowk,32,33,46
+146,2015-09-23,Sep-15,Chandni Chowk,25,58,73
+146,2015-10-06,Oct-15,Chandni Chowk,25,139,124
+146,2015-10-07,Oct-15,Chandni Chowk,31,173,115
+146,2015-10-08,Oct-15,Chandni Chowk,33,149,118
+146,2015-10-13,Oct-15,Chandni Chowk,33,98,110
+146,2015-10-14,Oct-15,Chandni Chowk,36,121,110
+146,2015-10-15,Oct-15,Chandni Chowk,37,178,121
+146,2015-10-19,Oct-15,Chandni Chowk,40,296,162
+146,2015-11-03,Nov-15,Chandni Chowk,45,457,155
+146,2015-11-04,Nov-15,Chandni Chowk,48,260,137
+146,2015-11-05,Nov-15,Chandni Chowk,49,101,145
+146,2015-11-18,Nov-15,Chandni Chowk,52,377,183
+146,2015-11-19,Nov-15,Chandni Chowk,55,353,188
+146,2015-11-24,Nov-15,Chandni Chowk,58,225,183
+146,2015-11-25,Nov-15,Chandni Chowk,67,295,173
+146,2015-11-26,Nov-15,Chandni Chowk,68,305,207
+146,2015-12-08,Dec-15,Chandni Chowk,75,435,182
+146,2015-12-09,Dec-15,Chandni Chowk,80,335,151
+146,2015-12-10,Dec-15,Chandni Chowk,45,289,159
+146,2015-12-15,Dec-15,Chandni Chowk,15,264,136
+146,2015-12-16,Dec-15,Chandni Chowk,65,346,178
+146,2015-12-17,Dec-15,Chandni Chowk,94,346,174
+146,2015-12-29,Dec-15,Chandni Chowk,46,271,130
+146,2015-12-30,Dec-15,Chandni Chowk,45,318,161
+345,2015-01-14,Jan-15,Mayapuri Industrial Area,44,344,99
+345,2015-01-15,Jan-15,Mayapuri Industrial Area,51,304,98
+345,2015-01-16,Jan-15,Mayapuri Industrial Area,55,374,122
+345,2015-01-27,Jan-15,Mayapuri Industrial Area,46,224,66
+345,2015-01-28,Jan-15,Mayapuri Industrial Area,65,270,82
+345,2015-01-29,Jan-15,Mayapuri Industrial Area,41,251,76
+345,2015-01-30,Jan-15,Mayapuri Industrial Area,56,234,66
+345,2015-02-10,Feb-15,Mayapuri Industrial Area,84,293,133
+345,2015-02-11,Feb-15,Mayapuri Industrial Area,64,356,112
+345,2015-02-12,Feb-15,Mayapuri Industrial Area,49,312,115
+345,2015-02-21,Feb-15,Mayapuri Industrial Area,45,257,113
+345,2015-02-22,Feb-15,Mayapuri Industrial Area,65,269,88
+345,2015-02-24,Feb-15,Mayapuri Industrial Area,72,286,99
+345,2015-02-25,Feb-15,Mayapuri Industrial Area,77,322,85
+345,2015-02-26,Feb-15,Mayapuri Industrial Area,70,333,104
+345,2015-03-03,Mar-15,Mayapuri Industrial Area,68,165,130
+345,2015-03-04,Mar-15,Mayapuri Industrial Area,64,254,95
+345,2015-03-13,Mar-15,Mayapuri Industrial Area,62,248,139
+345,2015-03-14,Mar-15,Mayapuri Industrial Area,57,117,63
+345,2015-03-15,Mar-15,Mayapuri Industrial Area,55,89,97
+345,2015-03-17,Mar-15,Mayapuri Industrial Area,53,152,52
+345,2015-03-18,Mar-15,Mayapuri Industrial Area,51,173,100
+345,2015-03-19,Mar-15,Mayapuri Industrial Area,48,207,77
+345,2015-04-07,Apr-15,Mayapuri Industrial Area,55,202,118
+345,2015-04-08,Apr-15,Mayapuri Industrial Area,38,215,114
+345,2015-04-09,Apr-15,Mayapuri Industrial Area,45,287,127
+345,2015-04-14,Apr-15,Mayapuri Industrial Area,49,260,120
+345,2015-04-15,Apr-15,Mayapuri Industrial Area,58,308,112
+345,2015-04-16,Apr-15,Mayapuri Industrial Area,55,150,106
+345,2015-04-21,Apr-15,Mayapuri Industrial Area,57,406,112
+345,2015-04-22,Apr-15,Mayapuri Industrial Area,60,379,131
+345,2015-05-12,May-15,Mayapuri Industrial Area,66,448,102
+345,2015-05-13,May-15,Mayapuri Industrial Area,72,110,80
+345,2015-05-14,May-15,Mayapuri Industrial Area,75,300,83
+345,2015-05-25,May-15,Mayapuri Industrial Area,60,892,100
+345,2015-05-26,May-15,Mayapuri Industrial Area,66,388,63
+345,2015-05-27,May-15,Mayapuri Industrial Area,54,602,94
+345,2015-05-29,May-15,Mayapuri Industrial Area,50,366,100
+345,2015-05-30,May-15,Mayapuri Industrial Area,47,408,104
+345,2015-06-02,Jun-15,Mayapuri Industrial Area,40,205,94
+345,2015-06-03,Jun-15,Mayapuri Industrial Area,46,163,87
+345,2015-06-04,Jun-15,Mayapuri Industrial Area,45,274,111
+345,2015-06-16,Jun-15,Mayapuri Industrial Area,51,174,76
+345,2015-06-17,Jun-15,Mayapuri Industrial Area,62,200,109
+345,2015-06-18,Jun-15,Mayapuri Industrial Area,66,236,106
+345,2015-06-23,Jun-15,Mayapuri Industrial Area,65,286,74
+345,2015-06-24,Jun-15,Mayapuri Industrial Area,54,105,57
+345,2015-07-01,Jul-15,Mayapuri Industrial Area,53,164,23
+345,2015-07-02,Jul-15,Mayapuri Industrial Area,57,191,32
+345,2015-07-07,Jul-15,Mayapuri Industrial Area,39,113,66
+345,2015-07-08,Jul-15,Mayapuri Industrial Area,45,111,88
+345,2015-07-09,Jul-15,Mayapuri Industrial Area,55,77,78
+345,2015-07-21,Jul-15,Mayapuri Industrial Area,64,56,54
+345,2015-07-22,Jul-15,Mayapuri Industrial Area,43,122,45
+345,2015-07-23,Jul-15,Mayapuri Industrial Area,32,116,51
+345,2015-08-04,Aug-15,Mayapuri Industrial Area,29,140,53
+345,2015-08-05,Aug-15,Mayapuri Industrial Area,23,75,72
+345,2015-08-06,Aug-15,Mayapuri Industrial Area,46,71,53
+345,2015-08-10,Aug-15,Mayapuri Industrial Area,54,80,110
+345,2015-08-11,Aug-15,Mayapuri Industrial Area,67,51,70
+345,2015-08-12,Aug-15,Mayapuri Industrial Area,69,100,77
+345,2015-08-17,Aug-15,Mayapuri Industrial Area,55,114,71
+345,2015-08-18,Aug-15,Mayapuri Industrial Area,64,91,66
+345,2015-09-01,Sep-15,Mayapuri Industrial Area,54,171,70
+345,2015-09-02,Sep-15,Mayapuri Industrial Area,49,203,85
+345,2015-09-03,Sep-15,Mayapuri Industrial Area,64,264,64
+345,2015-09-15,Sep-15,Mayapuri Industrial Area,65,238,79
+345,2015-09-16,Sep-15,Mayapuri Industrial Area,59,304,107
+345,2015-09-17,Sep-15,Mayapuri Industrial Area,57,214,76
+345,2015-09-28,Sep-15,Mayapuri Industrial Area,55,131,71
+345,2015-09-29,Sep-15,Mayapuri Industrial Area,56,173,46
+345,2015-10-06,Oct-15,Mayapuri Industrial Area,54,240,51
+345,2015-10-07,Oct-15,Mayapuri Industrial Area,48,236,69
+345,2015-10-08,Oct-15,Mayapuri Industrial Area,46,193,70
+345,2015-10-23,Oct-15,Mayapuri Industrial Area,36,365,121
+345,2015-10-24,Oct-15,Mayapuri Industrial Area,32,400,108
+345,2015-10-27,Oct-15,Mayapuri Industrial Area,25,366,76
+345,2015-10-28,Oct-15,Mayapuri Industrial Area,25,274,97
+345,2015-10-29,Oct-15,Mayapuri Industrial Area,31,252,124
+345,2015-11-03,Nov-15,Mayapuri Industrial Area,33,458,171
+345,2015-11-04,Nov-15,Mayapuri Industrial Area,33,321,172
+345,2015-11-05,Nov-15,Mayapuri Industrial Area,36,163,105
+345,2015-11-24,Nov-15,Mayapuri Industrial Area,37,455,142
+345,2015-11-25,Nov-15,Mayapuri Industrial Area,40,435,169
+345,2015-11-26,Nov-15,Mayapuri Industrial Area,45,392,224
+345,2015-11-27,Nov-15,Mayapuri Industrial Area,48,311,130
+345,2015-11-28,Nov-15,Mayapuri Industrial Area,49,346,127
+345,2015-12-02,Dec-15,Mayapuri Industrial Area,52,369,148
+345,2015-12-03,Dec-15,Mayapuri Industrial Area,55,236,136
+345,2015-12-07,Dec-15,Mayapuri Industrial Area,58,430,160
+345,2015-12-08,Dec-15,Mayapuri Industrial Area,67,451,159
+345,2015-12-14,Dec-15,Mayapuri Industrial Area,68,321,99
+345,2015-12-15,Dec-15,Mayapuri Industrial Area,75,375,106
+345,2015-12-21,Dec-15,Mayapuri Industrial Area,80,573,199
+345,2015-12-22,Dec-15,Mayapuri Industrial Area,45,616,223
+531,2015-01-05,Jan-15,Pritampura,15,221,35
+531,2015-01-08,Jan-15,Pritampura,65,171,38
+531,2015-01-13,Jan-15,Pritampura,94,242,34
+531,2015-01-16,Jan-15,Pritampura,46,202,40
+531,2015-01-21,Jan-15,Pritampura,45,277,35
+531,2015-01-27,Jan-15,Pritampura,44,170,34
+531,2015-02-02,Feb-15,Pritampura,51,393,35
+531,2015-02-05,Feb-15,Pritampura,55,282,33
+531,2015-02-10,Feb-15,Pritampura,46,156,35
+531,2015-02-13,Feb-15,Pritampura,65,190,36
+531,2015-02-18,Feb-15,Pritampura,41,243,34
+531,2015-02-23,Feb-15,Pritampura,56,257,35
+531,2015-03-04,Mar-15,Pritampura,84,227,33
+531,2015-03-10,Mar-15,Pritampura,64,99,36
+531,2015-03-13,Mar-15,Pritampura,49,225,35
+531,2015-03-18,Mar-15,Pritampura,45,121,28
+531,2015-03-23,Mar-15,Pritampura,65,98,31
+531,2015-03-26,Mar-15,Pritampura,72,171,32
+531,2015-04-01,Apr-15,Pritampura,77,116,31
+531,2015-04-09,Apr-15,Pritampura,70,127,34
+531,2015-04-17,Apr-15,Pritampura,68,194,31
+531,2015-04-22,Apr-15,Pritampura,64,209,33
+531,2015-04-27,Apr-15,Pritampura,62,205,37
+531,2015-05-01,May-15,Pritampura,57,233,35
+531,2015-05-07,May-15,Pritampura,55,253,35
+531,2015-05-12,May-15,Pritampura,53,235,35
+531,2015-05-15,May-15,Pritampura,51,225,34
+531,2015-05-20,May-15,Pritampura,48,237,31
+531,2015-05-25,May-15,Pritampura,55,246,30
+531,2015-05-28,May-15,Pritampura,38,267,31
+531,2015-06-03,Jun-15,Pritampura,45,258,35
+531,2015-06-08,Jun-15,Pritampura,49,167,33
+531,2015-06-11,Jun-15,Pritampura,58,229,34
+531,2015-06-16,Jun-15,Pritampura,55,228,34
+531,2015-06-19,Jun-15,Pritampura,57,254,32
+531,2015-06-24,Jun-15,Pritampura,60,198,33
+531,2015-06-29,Jun-15,Pritampura,66,194,32
+531,2015-07-03,Jul-15,Pritampura,72,252,31
+531,2015-07-08,Jul-15,Pritampura,75,215,32
+531,2015-07-13,Jul-15,Pritampura,60,243,34
+531,2015-07-16,Jul-15,Pritampura,66,226,31
+531,2015-07-21,Jul-15,Pritampura,54,146,29
+531,2015-07-24,Jul-15,Pritampura,50,101,29
+531,2015-07-29,Jul-15,Pritampura,47,416,28
+531,2015-08-04,Aug-15,Pritampura,40,171,28
+531,2015-08-07,Aug-15,Pritampura,46,162,29
+531,2015-08-12,Aug-15,Pritampura,45,306,32
+531,2015-08-17,Aug-15,Pritampura,51,184,29
+531,2015-08-20,Aug-15,Pritampura,62,156,33
+531,2015-08-25,Aug-15,Pritampura,66,158,35
+531,2015-08-28,Aug-15,Pritampura,65,253,35
+531,2015-09-03,Sep-15,Pritampura,54,164,33
+531,2015-09-08,Sep-15,Pritampura,53,189,30
+531,2015-09-11,Sep-15,Pritampura,57,228,32
+531,2015-09-16,Sep-15,Pritampura,39,199,31
+531,2015-09-21,Sep-15,Pritampura,45,196,30
+531,2015-09-24,Sep-15,Pritampura,55,277,30
+531,2015-10-01,Oct-15,Pritampura,64,237,33
+531,2015-10-07,Oct-15,Pritampura,43,204,33
+531,2015-10-12,Oct-15,Pritampura,32,210,36
+531,2015-10-15,Oct-15,Pritampura,29,234,38
+531,2015-10-20,Oct-15,Pritampura,23,427,35
+531,2015-10-26,Oct-15,Pritampura,46,411,31
+531,2015-10-29,Oct-15,Pritampura,54,450,36
+531,2015-11-05,Nov-15,Pritampura,67,161,72
+531,2015-11-09,Nov-15,Pritampura,69,334,77
+531,2015-11-13,Nov-15,Pritampura,55,504,41
+531,2015-11-18,Nov-15,Pritampura,64,360,54
+531,2015-11-23,Nov-15,Pritampura,54,374,46
+531,2015-11-27,Nov-15,Pritampura,49,426,44
+531,2015-12-03,Dec-15,Pritampura,64,590,56
+531,2015-12-08,Dec-15,Pritampura,65,362,53
+531,2015-12-11,Dec-15,Pritampura,59,138,51
+531,2015-12-16,Dec-15,Pritampura,57,246,56
+531,2015-12-21,Dec-15,Pritampura,55,269,54
+531,2015-12-28,Dec-15,Pritampura,56,205,53
+531,2015-12-29,Dec-15,Pritampura,54,142,43
+531,2015-12-31,Dec-15,Pritampura,48,420,44
